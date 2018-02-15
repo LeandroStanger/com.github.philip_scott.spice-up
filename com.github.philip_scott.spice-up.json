@@ -139,7 +139,7 @@
                 {
                     "type": "archive",
                     "url": "https://github.com/Philip-Scott/Spice-up/archive/1.1.0.tar.gz",
-                    "sha256": "f9d0d04ec547767d2749201909bc7ae9721c012f1d02bd123465c343b2bebc0a"
+                    "sha256": "65361c42468398b2270b2bf09fb80d03cdd55c5a74cd57148cafab2a7c501f1e"
                 },
                 {
                     "type": "patch",
